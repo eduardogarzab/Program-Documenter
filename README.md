@@ -1,5 +1,5 @@
 # Program-Documenter
-The documenter will document the programs using this template
+The documenter will document the programs using this template:
 - @progName
 - @author
 - @date
@@ -7,3 +7,5 @@ The documenter will document the programs using this template
 - @desc
 - @param
 - @return
+
+And it will create a .html file where all the data of the program and functions will appear.
